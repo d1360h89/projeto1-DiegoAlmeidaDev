@@ -26,3 +26,6 @@ Git reflog
    - `git rebase`: Reordena os commits no histórico.
 
 
+nova branch
+Git pull na master
+Git checkout -b sistem-de-login master (cria a branch baseada na master)
