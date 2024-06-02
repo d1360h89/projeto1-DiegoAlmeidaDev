@@ -65,3 +65,14 @@ Claro! Vou te mostrar como iniciar o Git e configurá-lo. 😊
 Agora você está pronto para começar a usar o Git! Se tiver mais alguma dúvida, é só perguntar. 😉
 
 
+altera salva
+git checkout na branch
+git add .
+git push
+
+criar solicitação no github oll request
+após verificação, merge
+
+Git ignore: rodar
+touch .gitignore
+
