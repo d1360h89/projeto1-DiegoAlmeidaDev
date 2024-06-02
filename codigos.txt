@@ -29,3 +29,39 @@ Git reflog
 nova branch
 Git pull na master
 Git checkout -b sistem-de-login master (cria a branch baseada na master)
+
+
+Claro! Vou te mostrar como iniciar o Git e configurá-lo. 😊
+
+1. **Instalação do Git:**
+   Antes de começar, você precisa instalar o Git no seu sistema. Existem várias maneiras de fazer isso, dependendo do seu sistema operacional:
+   - **Windows:** Você pode baixar o instalador do Git para Windows [aqui](https://gitforwindows.org/). Execute o instalador e siga as instruções.
+   - **Linux (Ubuntu/Debian):** Abra o terminal e digite `sudo apt install git`.
+   - **Mac:** O Git já está instalado por padrão no macOS.
+
+2. **Configuração Inicial:**
+   Após a instalação, é importante configurar algumas informações pessoais no Git:
+
+   - **Nome de Usuário:**
+     Defina seu nome de usuário globalmente para todos os projetos:
+     ```
+     $ git config --global user.name "Seu Nome"
+     ```
+
+   - **Endereço de Email:**
+     Defina seu endereço de email globalmente:
+     ```
+     $ git config --global user.email "seu@email.com"
+     ```
+
+   Essas configurações são importantes porque cada commit que você fizer usará essas informações.
+
+3. **Escolhendo um Editor de Texto:**
+   O Git pode usar um editor de texto para inserir mensagens de commit. Por padrão, ele usa o Vim. Se você preferir outro editor (como o Nano ou o Emacs), configure-o assim:
+   ```
+   $ git config --global core.editor "nome_do_editor"
+   ```
+
+Agora você está pronto para começar a usar o Git! Se tiver mais alguma dúvida, é só perguntar. 😉
+
+
