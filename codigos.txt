@@ -25,14 +25,4 @@ Git reflog
    - `git tag`: Cria uma marca permanente no histórico.
    - `git rebase`: Reordena os commits no histórico.
 
-Se precisar de mais informações ou tiver outras dúvidas, é só perguntar! 😉
 
-Fonte: conversa com o Copilot, 02/06/2024
-(1) Git - Vendo o histórico de Commits. https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Vendo-o-hist%C3%B3rico-de-Commits.
-(2) Domine o Git com estes comandos essenciais: Guia completo para iniciantes. https://www.dio.me/articles/domine-o-git-com-estes-comandos-essenciais-guia-completo-para-iniciantes.
-(3) Lista dos principais comandos do GIT - dio.me. https://www.dio.me/articles/lista-dos-principais-comandos-do-git.
-(4) Comandos Git: os 10 que todo desenvolvedor deveria saber - GeekHunter. https://blog.geekhunter.com.br/comandos-git-mais-utilizados/.
-(5) undefined. https://github.com/schacon/simplegit-progit.
-(6) github.com. https://github.com/znzn40/scjun-doc/tree/d183dcd89a2076e2576faca4a28a4b8472e89400/p%2F61%2F614.md.
-(7) github.com. https://github.com/Aparksa/GitbookIO/tree/82ccb0ee78f9eed4695949f4c2425a70e8bba8e2/tr%2F80c038e3f6e29f6e612a7c105a65d3d3%2Fa3dc237f187ce8572dc7c5c56879d971.md.
-(8) github.com. https://github.com/JCWDFCS/3.1.1.gitPro/tree/d596fd0e6116703b30501aabba5b67c9a3505808/2.Git%20Basics.md.
