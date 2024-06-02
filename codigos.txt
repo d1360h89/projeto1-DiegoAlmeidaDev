@@ -72,7 +72,10 @@ git push
 
 criar solicitação no github oll request
 após verificação, merge
+<<<<<<< HEAD
 
 Git ignore: rodar
 touch .gitignore
 
+=======
+>>>>>>> aac32c7ec2a65d1405c79a06705258cf0edea0c2
