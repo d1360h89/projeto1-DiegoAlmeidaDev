@@ -1,2 +1,10 @@
 olá meu nome é Diego Almeida
 nova linha
+Git pull branch principal
+gerar nova branch a partir da principal
+trabalhar e adicionar novasfuncionalidades na nova branch criada
+finalizar trabalho na branch temporaria
+Git checkout na branch principal
+Git pull
+Git merge puxando dados da branch temporaria e testar
+Git push da branch principal
